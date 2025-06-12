@@ -18,19 +18,19 @@ The goal was to gain hands-on experience with server cloning, secure file synchr
 ![800px-AWSAsg1Overview](https://github.com/user-attachments/assets/b2435e29-295f-41c2-bd29-f968a2b145af)
 
 
-## Completed Work
+# Completed Work
 
-# Elastic Block Store/Volumes
+## Elastic Block Store/Volumes
 
-# Router's security group with the port numbers
+## Router's security group with the port numbers
 
-# AMIs
+## AMIs
 
-# Access VIA SSH keys
+## Access VIA SSH keys
 
-# IP tables Configuration
+## IP tables Configuration
 
-# Testing Rsync
+## Testing Rsync
 
 
 
