@@ -20,17 +20,26 @@ The goal was to gain hands-on experience with server cloning, secure file synchr
 
 # Completed Work
 
+## AMIs
+![asg1-ss01-amis](https://github.com/user-attachments/assets/17aebbaa-ade8-4a80-bb1a-b1bf2e55e98b)
+
 ## Elastic Block Store/Volumes
+![asg1-ss02-ebs](https://github.com/user-attachments/assets/96dfc741-f8cd-4c07-ad2d-fb781ac404d6)
 
 ## Router's security group with the port numbers
-
-## AMIs
+![asg1-ss03-routers](https://github.com/user-attachments/assets/725064d6-cd13-4166-84b0-b9e816e0ff45)
 
 ## Access VIA SSH keys
+![asg1-ss05-sshkeys](https://github.com/user-attachments/assets/3ab98f49-516d-48c5-a1ba-9ab133a5e02d)
 
-## IP tables Configuration
+## IP Tables Configuration
+![asg1-ss04-iptables](https://github.com/user-attachments/assets/3e64de1a-7059-4393-b211-2166be3d3b35)
 
 ## Testing Rsync
+![asg1-ss06-files png](https://github.com/user-attachments/assets/094b898f-2f51-4c73-8b63-cb7e7daed337)
+
+## Crontab on the slave(s)
+![asg1-ss07-crontab png](https://github.com/user-attachments/assets/c240cc02-6a8c-4f0d-8407-3ef8da400a3d)
 
 
 
